@@ -1,8 +1,4 @@
 import React, { Component } from 'react'
-import {
-    Link,
-    Route // for later
-  } from 'react-router-dom'
 const all_topics = [
     {
       name: 'React Router',
